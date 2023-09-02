@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">MeuPrimeiroAppDio</string>
+    <string name="hello_dio">Olá mundo</string>
+    <string name="Ciao_dio">Ciao mondo</string>
+    <string name="hola_dio">Hola mundo</string>
 </resources>
